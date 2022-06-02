@@ -1,3 +1,3 @@
 # deteccionOcular
 
-Es necesario tener mediapipi y opencv para que el codigo funcione.
+Es necesario tener mediapipe y opencv para que el codigo funcione.
